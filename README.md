@@ -23,24 +23,6 @@ Tesseract OCR Text Extractor is designed to convert text present in images into 
 - Export extracted text to TXT, PDF and CSV
 - Modular and organized project structure
 
-## Project Structure
-
-Tesseract-OCR-Text-Extractor/
-├── dataset/
-├── models/
-├── src/
-│   ├── ocr/
-│   ├── preprocessing/
-│   ├── exporters/
-│   └── utils/
-├── outputs/
-├── tests/
-├── config/
-├── logs/
-├── main.py
-├── requirements.txt
-└── README.md
-
 ## Installation
 
 python -m venv venv
