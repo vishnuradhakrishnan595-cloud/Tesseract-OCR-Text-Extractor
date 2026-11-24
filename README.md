@@ -1,6 +1,10 @@
 # Tesseract OCR Text Extractor
 
-A Python-based OCR application that extracts text from images using **Tesseract OCR**, with image preprocessing to improve recognition accuracy.
+A Python-based Optical Character Recognition (OCR) application that extracts text from images using Tesseract OCR and image preprocessing techniques.
+
+## Project Overview
+
+Tesseract OCR Text Extractor is designed to convert text present in images into machine-readable text. It uses Python, Tesseract OCR, and OpenCV to improve image quality and extract accurate text.
 
 ## Tech Stack
 
