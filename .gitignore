@@ -1,0 +1,40 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+
+# Environment Variables
+.env
+.env.*
+!.env.example
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+logs/*
+
+# Generated Outputs
+outputs/*
+!outputs/.gitkeep
+
+# Dataset
+dataset/input_images/*
+!dataset/input_images/.gitkeep
+dataset/processed_images/*
+!dataset/processed_images/.gitkeep
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# OS
+Thumbs.db
+.DS_Store
